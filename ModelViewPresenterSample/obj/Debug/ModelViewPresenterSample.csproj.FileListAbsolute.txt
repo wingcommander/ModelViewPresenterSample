@@ -1,0 +1,7 @@
+H:\ModelViewPresenterSample\ModelViewPresenterSample\obj\Debug\ResolveAssemblyReference.cache
+H:\ModelViewPresenterSample\ModelViewPresenterSample\bin\ModelViewPresenterSample.dll
+H:\ModelViewPresenterSample\ModelViewPresenterSample\bin\ModelViewPresenterSample.pdb
+H:\ModelViewPresenterSample\ModelViewPresenterSample\bin\RoverEntities.dll
+H:\ModelViewPresenterSample\ModelViewPresenterSample\bin\RoverEntities.pdb
+H:\ModelViewPresenterSample\ModelViewPresenterSample\obj\Debug\ModelViewPresenterSample.dll
+H:\ModelViewPresenterSample\ModelViewPresenterSample\obj\Debug\ModelViewPresenterSample.pdb

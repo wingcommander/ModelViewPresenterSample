@@ -1,0 +1,7 @@
+H:\ModelViewPresenterSample\RoverInterfaces\obj\Debug\ResolveAssemblyReference.cache
+H:\ModelViewPresenterSample\RoverInterfaces\bin\Debug\RoverInterfaces.dll
+H:\ModelViewPresenterSample\RoverInterfaces\bin\Debug\RoverInterfaces.pdb
+H:\ModelViewPresenterSample\RoverInterfaces\bin\Debug\RoverEntities.dll
+H:\ModelViewPresenterSample\RoverInterfaces\bin\Debug\RoverEntities.pdb
+H:\ModelViewPresenterSample\RoverInterfaces\obj\Debug\RoverInterfaces.dll
+H:\ModelViewPresenterSample\RoverInterfaces\obj\Debug\RoverInterfaces.pdb
